@@ -1,5 +1,5 @@
 Olá,
 Joque o Jogo do Número secreto 2.0
-jogo-numero-secreto-2-0.vercel.app
+https://jogo-numero-secreto-2-0.vercel.app/
 
 Se você gostou deste projeto, seja um dos meus parocinadores!
